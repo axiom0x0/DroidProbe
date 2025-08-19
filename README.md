@@ -1,3 +1,5 @@
+![DroidProbe](DroidProbe_final.png)
+
 # 🛰️ DroidProbe
 
 **DroidProbe** is a lightweight command-line tool for probing Android devices over ADB (Android Debug Bridge) and gathering basic system information. It supports scanning single devices or batches via a list of IPs.
